@@ -10,7 +10,7 @@ const WorkExperience = () =>{
                                       
                         
                         <h3 className="title">Test Engineer</h3>
-                        <h4 className="title">Marquis Technologies Pvt Ltd <span className="year">(Feb20 - Jun21)</span></h4>
+                        <h4 className="title">Marquis Technologies Pvt Ltd <span className="year">(Feb20 - Jul21)</span></h4>
                     </div>
    
                 </div>
